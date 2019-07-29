@@ -1,0 +1,29 @@
+.App {
+  text-align: center;
+  margin-top: 12%;
+}
+
+.background {
+  display: inline-block;
+  background-color: black;
+}
+
+.block {
+  margin: 5px;
+  width: 70px;
+  height: 70px;
+  font-size: 20px;
+  font-weight: bold;
+  color: #08fcf0;
+  background-color: #0c5563;
+  border: none;
+}
+
+.zero {
+  visibility: hidden;
+}
+
+.congrats {
+	font-size: 40px;
+	font-family: 'Sigmar One', cursive;
+}
